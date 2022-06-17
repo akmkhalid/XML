@@ -1,4 +1,4 @@
-# Student participation in humanities research projects: three case studies from Italy
+# Students' Participation in Humanities Research Projects: Three Case Studies from Italy
 
 Although Italy has participated in the European Higher Education Area (EHEA) since its very beginning, higher education at Italian universities is still being pursued through a top-down didactic approach and a quality assurance system that seem to contradict the principles of student-centred learning and teaching. However, these are foundational within the educational program of the EHEA, as they foster students’ initiative and self-commitment both along their curricular pathways and later on in life.
 
