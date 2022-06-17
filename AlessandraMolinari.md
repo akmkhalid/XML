@@ -1,5 +1,5 @@
 ![alt text](https://github.com/akmkhalid/xml/blob/main/Alessandra.png?raw=true)
-image:assets/images/Alessandra.png
+assets/images/Alessandra.png
 featured: true
 featured: false
 hidden: false
