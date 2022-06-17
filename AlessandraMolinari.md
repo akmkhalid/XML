@@ -1,8 +1,5 @@
 ![alt text](https://github.com/akmkhalid/xml/blob/main/Alessandra.png?raw=true)
-assets/images/Alessandra.png
-featured: true
-featured: false
-hidden: false
+
 # Alessandra Molinari
 
 ## Biography
