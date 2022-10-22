@@ -4,17 +4,17 @@ title:  "Handmade Data: Reflections on Data Containers."
 author: dan
 categories: [ lectures, events ]
 image: assets/images/Stevens.jpg
+event: true 
 featured: true
 hidden: false
----
+eventdate: "2022-06-29"
+eventstartUTC: "1400"
+eventendUTC: "1600"
+zoomlink: "https://us06web.zoom.us/meeting/register/tZIufu6rqD8sGtXr3FpVRux5Uh5yKT8konzO"
+ics: "https://us06web.zoom.us/meeting/tZIufu6rqD8sGtXr3FpVRux5Uh5yKT8konzO/ics"---
 
-Handmade Data: Reflections on Data Containers. [November 15, 2022. 1400-1600 UTC](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2022&month=6&day=1&hour=14&min=0&sec=0&p1=137&p2=75&p3=179&p4=136&p5=195&p6=53&p7=771&p8=196&p9=240&p10=264)
-
-[Register on Zoom](https://us06web.zoom.us/meeting/register/tZclcu-hrjMpEtAZP46gQe81L2r9ijE0XSb5)
-
-** Speaker:
-
-    Dr. Nikki Stevens
+Handmade Data: Reflections on Data Containers. 
+** Speaker: Dr. Nikki Stevens
 
 ** Abstract:
 
