@@ -1,9 +1,8 @@
 # Handmade Data: Reflections on Data Containers. 
- November 15, 2022. 1400-1600 UTC
+## November 15, 2022. 1400-1600 UTC
 
-## Speaker
-
-# Dr. Nikki Stevens
+![alt text](https://github.com/akmkhalid/xml/blob/main/Stevens.jpg?raw=true)
+## Speaker : Dr. Nikki Stevens
 
 ## Abstract:
 
